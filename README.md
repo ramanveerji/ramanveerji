@@ -8,3 +8,11 @@
    <a href="https://github.com/ramanveerji"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanveerji&theme=radical&no-frame=true&no-bg=true&hide_border=true&cache_seconds=1800" alt="streak" /> </a>
 </p>
 
+##
+<details>
+    <summary><b>Contact me</b></summary><br/>
+
+[![Telegram Badge](https://img.shields.io/badge/-ramanveerji-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramanveerji)
+</details>
+
+Thanks @Noblewolf for this
