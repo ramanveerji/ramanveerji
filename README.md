@@ -1,4 +1,7 @@
-# It was looking good 😎
+# About Me
+```
+A Noob student trying to figure out how everything works out..
+```
 
 <summary><b>GitHub Stats 📊</b></summary><br/>
 <p align="center">
