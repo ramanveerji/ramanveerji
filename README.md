@@ -1,4 +1,4 @@
-# About
+# It was looking good 😎
 
 <summary><b>GitHub Stats 📊</b></summary><br/>
 <p align="center">
