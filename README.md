@@ -14,8 +14,12 @@ A Noob student trying to figure out how everything works out..
 ##
 <details>
     <summary><b>Contact me</b></summary><br/>
-
+      
 [![Telegram Badge](https://img.shields.io/badge/-ramanveerji-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramanveerji)
 </details>
 
-Thanks @Noblewolf for this
+<p align="center">
+   <a href="https://github.com/ramanveerji"><img src="https://Visitor-badge.laobi.icu/badge?page_id=ramanveerji"
+</p>
+      
+Thanks @Noblewolf for this.
