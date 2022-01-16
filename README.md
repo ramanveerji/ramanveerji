@@ -24,4 +24,4 @@ A Noob student trying to figure out how everything works out..
    <a href="https://github.com/ramanveerji"><img src="https://Visitor-badge.laobi.icu/badge?page_id=ramanveerji"
 </p>
 
-Thanks @NobleWolf for this
+This is me Ramandeep Singh now signing off.     
