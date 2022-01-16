@@ -11,6 +11,10 @@ A Noob student trying to figure out how everything works out..
    <a href="https://github.com/ramanveerji"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanveerji&theme=radical&no-frame=true&no-bg=true&hide_border=true&cache_seconds=1800" alt="streak" /> </a>
 </p>
 
+<p align="center">
+   <a href="https://github.com/ramanveerji"><img src="https://Visitor-badge.laobi.icu/badge?page_id=ramanveerji"
+</p>
+
 ##
 <details>
     <summary><b>Contact me</b></summary><br/>
@@ -19,10 +23,6 @@ A Noob student trying to figure out how everything works out..
 </details>
 
 ---
-
-<p align="center">
-   <a href="https://github.com/ramanveerji"><img src="https://Visitor-badge.laobi.icu/badge?page_id=ramanveerji"
-</p>
 
 This is me Ramandeep Singh now signing off.     
 
