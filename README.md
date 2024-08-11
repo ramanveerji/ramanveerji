@@ -1,5 +1,7 @@
 # About Me
-A Noob student trying to figure out how everything works out..
+I am Ramandeep Singh, a dedicated and passionate individual with a strong academic background in the field of agriculture. I hold a Master's degree in Agriculture, specializing in Genetics and Plant Breeding, which has equipped me with a solid foundation in scientific research and plant breeding techniques.
+
+- 🔭 I’m currently working on [Ads Regex+](https://github.com/ramanveerji/Ads-Regex-Official).
 
 <table align="center">
   <tr>
