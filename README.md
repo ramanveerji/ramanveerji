@@ -3,45 +3,18 @@ I am Ramandeep Singh, a dedicated and passionate individual with a strong academ
 
 - 🔭 I’m currently working on [Ads Regex+](https://github.com/ramanveerji/Ads-Regex-Official).
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/ramanveerji">
-        <img src="https://github-readme-stats.vercel.app/api?username=ramanveerji&show_icons=true&theme=radical&no-frame=true&hide_border=true&cache_seconds=1800&count_private=true&include_all_commits=true&custom_title=My+GitHub+Stats" alt="stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ramanveerji">
-        <img src="https://github-profile-trophy.vercel.app/?username=ramanveerji&theme=radical&no-frame=true&cache_seconds=1800" alt="trophies" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ramanveerji">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanveerji&layout=compact&theme=radical&no-bg=true&hide_border=true&cache_seconds=1800" alt="languages" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ramanveerji">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanveerji&theme=radical&no-frame=true&no-bg=true&hide_border=true&cache_seconds=1800" alt="streak" />
-      </a>
-    </td>
-  </tr>
-</table>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ramanveerji&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramanveerji&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramanveerji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##
-<details>
-    <summary><b>Contact me</b></summary><br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ramanveerji&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-[![Telegram Badge](https://img.shields.io/badge/-ramanveerji-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ramanveerji)
-</details>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ramanveerji&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<p align="center">
-   <img src="https://Visitor-badge.laobi.icu/badge?page_id=ramanveerji"
-</p>
+[![](https://visitcount.itsvg.in/api?id=ramanveerji&icon=9&color=0)](https://visitcount.itsvg.in)
 
-This is me Ramandeep Singh now signing off.
-
-> Thanks @NobleWolf for this..
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
