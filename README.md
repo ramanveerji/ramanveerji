@@ -2,6 +2,7 @@
 I am Ramandeep Singh, a dedicated and passionate individual with a strong academic background in the field of agriculture. I hold a Master's degree in Agriculture, specializing in Genetics and Plant Breeding, which has equipped me with a solid foundation in scientific research and plant breeding techniques.
 
 - 🔭 I’m currently working on [Ads Regex+](https://github.com/ramanveerji/Ads-Regex-Official).
+- ✅ I've completed [Arch Checker](https://github.com/ramanveerji/Architecture-Checker-Official).
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ramanveerji&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
